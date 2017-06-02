@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 5px;
+    border: 1px solid dimgray;
+    background-color: ghostwhite;
+    box-shadow: 0 0 1px 1px #000 inset;
+}
+
+li {
+    display: inline-block;
+}

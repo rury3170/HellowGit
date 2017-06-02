@@ -1,0 +1,16 @@
+{
+  "name": "gbf_cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "config": "^1.21.0",
+    "twitter": "^1.3.0"
+  }
+}
